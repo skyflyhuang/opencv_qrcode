@@ -1,0 +1,2 @@
+# opencv_qrcode
+利用opencv进行qrcode的识别与定位
